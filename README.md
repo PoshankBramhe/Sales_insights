@@ -19,8 +19,8 @@ Revenue trends analyzed by year and market.<br>
 Sales quantity variations across different markets.<br>
 Identification of top 10 customers and products driving revenue.<br>
 <h3>Dashboard Creation</h3>
-A meticulously crafted, clean, and visually appealing dashboard was created in Tableau. This dashboard aimed to provide stakeholders and decision-makers with an intuitive overview of the insights obtained from the data analysis.<be>
-<br>
+A meticulously crafted, clean, and visually appealing dashboard was created in Tableau. This dashboard aimed to provide stakeholders and decision-makers with an intuitive overview of the insights obtained from the data analysis.<br><br>
+
 ![Screenshot (76)](https://github.com/PoshankBramhe/Sales_insights/assets/154652656/22b8a781-e5e0-4fb9-9814-977694bb6c39)
 
 <h3>Impact and Takeaways</h3>
