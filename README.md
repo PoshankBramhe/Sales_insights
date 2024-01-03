@@ -22,7 +22,6 @@ Identification of top 10 customers and products driving revenue.<br>
 <h3>Dashboard Creation</h3>
 A meticulously crafted, clean, and visually appealing dashboard was created in Tableau. This dashboard aimed to provide stakeholders and decision-makers with an intuitive overview of the insights obtained from the data analysis.<be>
 <br>
-![Screenshot (76)](https://github.com/PoshankBramhe/Sales_insights/assets/154652656/37e3576d-1cb5-48b6-9158-b724336096d4)
 
 <h3>Impact and Takeaways</h3>
 Empowered decision-makers with actionable insights.<br>
