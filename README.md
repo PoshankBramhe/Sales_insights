@@ -1,1 +1,33 @@
 # Sales_insights
+<br>
+<h1>Sales Insights Project</h1><br>
+
+<h3>Overview</h3> <br>
+This project aimed to address declining sales by diving into real data obtained from the codebases website. Through a comprehensive analysis using SQL and Tableau, we sought to uncover key insights and trends influencing sales performance.<br>
+
+<h3>Problem Identification</h3><br>
+The primary challenge was a noticeable decline in sales, prompting the need for data-driven insights to understand contributing factors and potential solutions.<br>
+
+<h3>Methodology</h3><br>
+Data Collection: Real data extracted from the codebases website.<br>
+Analysis Tools: Utilized SQL for data querying and Tableau for data visualization.<br>
+Data Processing: Cleaned and transformed data through ETL techniques in Tableau.<br>
+<h3>Key Insights</h3><br>
+Total revenue, sales quantity, and their variations.<br>
+Impact of different customer types on sales figures.<br>
+Percentage amount breakdown for deeper understanding.<br>
+Revenue trends analyzed by year and market.<br>
+Sales quantity variations across different markets.<br>
+Identification of top 10 customers and products driving revenue.<br>
+<h3>Dashboard Creation</h3><br>
+A meticulously crafted, clean, and visually appealing dashboard was created in Tableau. This dashboard aimed to provide stakeholders and decision-makers with an intuitive overview of the insights obtained from the data analysis.<br>
+
+<h3>Impact and Takeaways</h3><br>
+Empowered decision-makers with actionable insights.<br>
+Enabled informed strategic planning to address declining sales.<br>
+Highlighted the significance of data-driven approaches in solving business challenges.<br>
+<h3>Collaborative Approach</h3><br>
+Efficient collaboration between SQL and Tableau was essential. Leveraging diverse skill sets ensured a comprehensive solution for the project.<br>
+
+<h3>Contact</h3><br>
+Feel free to reach out for discussions on data analytics, business strategy, or collaborative ventures.
